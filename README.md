@@ -25,7 +25,7 @@
 | Storage                 | AWS S3          |
 | Hosting                 | AWS S3          |
 |                         | AWS CloudFront  |
-| Serverless architecture | AWS API Gateway |
+| Serverless API | AWS API Gateway |
 |                         | AWS Lamdba      |
 
 ![serverless](https://prime-x-co-ltd.github.io/px-overview/serverless-uploader.png)
